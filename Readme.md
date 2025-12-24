@@ -5,7 +5,6 @@
 The **IoT-Based Greenhouse Monitoring & Control System** is a smart agriculture solution designed to monitor and automate key environmental and soil parameters inside a greenhouse.
 The project leverages **IoT technology and ESP32** to collect real-time sensor data and control actuators automatically, improving crop health, resource efficiency, and reducing manual labor.
 
-This project was developed as part of a **Community Engagement Project** at **Sanjivani University**, School of Engineering & Technology, Department of Artificial Intelligence & Data Science .
 
 ---
 
@@ -123,5 +122,3 @@ B.Tech (AI & Data Science)
 
 Feel free to ⭐ the repository or connect with me on GitHub.
 
----**block diagram & screenshots section**
-* Write **resume bullet points for this project**
